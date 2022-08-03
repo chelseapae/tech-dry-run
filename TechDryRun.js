@@ -3,4 +3,4 @@
 const hrr18 = {
   name: 'Chelsea',
   other: 'hi'
-}
+};
