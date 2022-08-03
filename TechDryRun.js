@@ -1,8 +1,6 @@
-//Tech Dry Run
+// Tech Dry Run
 
-var hrr18 = {
-  name: 'Chelsea'
+const hrr18 = {
+  name: 'Chelsea',
+  other: 'hi'
 }
-
-
-
